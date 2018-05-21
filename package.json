@@ -1,0 +1,30 @@
+{
+  "name": "vue-device-detect",
+  "version": "1.0.0",
+  "description": "Add device info to the Vue prototype (this.$device)",
+  "main": "DeviceDetect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avidus3r/vue-device-detect.git"
+  },
+  "keywords": [
+    "[\"MobileDetect\"",
+    "\"Vue.js\"",
+    "\"Mobile",
+    "Detection\"",
+    "\"Device",
+    "Detection\"",
+    "\"Mobile",
+    "Responsive\"",
+    "\"UserAgent\"]"
+  ],
+  "author": "Christiaan Mealey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avidus3r/vue-device-detect/issues"
+  },
+  "homepage": "https://github.com/avidus3r/vue-device-detect#readme"
+}
